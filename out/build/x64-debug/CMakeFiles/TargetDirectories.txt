@@ -1,0 +1,5 @@
+D:/ws/C-c++/TicTacToe/TicTacToe/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/ws/C-c++/TicTacToe/TicTacToe/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/ws/C-c++/TicTacToe/TicTacToe/out/build/x64-debug/TicTacToe/CMakeFiles/TicTacToe.dir
+D:/ws/C-c++/TicTacToe/TicTacToe/out/build/x64-debug/TicTacToe/CMakeFiles/edit_cache.dir
+D:/ws/C-c++/TicTacToe/TicTacToe/out/build/x64-debug/TicTacToe/CMakeFiles/rebuild_cache.dir
